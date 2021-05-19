@@ -1,10 +1,10 @@
-package TestFramework.Demoproject;
+package testFrameworkPage;
 
 /**
  * Hello world!
  *
  */
-public class App 
+public class Page 
 {
     public static void main( String[] args )
     {

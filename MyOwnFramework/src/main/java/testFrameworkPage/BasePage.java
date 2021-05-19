@@ -1,6 +1,6 @@
-package TestFramework.Demoproject;
+package testFrameworkPage;
 
-public class reverse {
+public class BasePage {
 	
 	public static void main (String [] args) {
 		String str="sugumar";
